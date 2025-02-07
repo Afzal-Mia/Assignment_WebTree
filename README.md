@@ -2,7 +2,7 @@
 
 A stylish and animated user profile card component built with React, Tailwind CSS, and Vite. Fetches random user data from the [Random User API](https://randomuser.me/) and displays it in an elegant card design with interactive elements.
 
-![Preview](/w.png)
+![Preview](./Public/w.png)
 
 ## Features
 
